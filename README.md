@@ -1,5 +1,5 @@
 # Projet_Reseaux_IG3 
-<b>AFONSO Benjamin<b><br>
+<b>AFONSO Benjamin</b><br>
 <b>Calcul de Factorielle(N) et Fib(N) en réseaux (Client/Serveur) et en java.</b><br>
 
 <i> -> Fibonacci peut prendre 1 ou 2 serveurs, local ou distant.</i><br>
