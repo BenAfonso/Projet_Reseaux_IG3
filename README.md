@@ -23,7 +23,7 @@ Pour obtenir l’aide:
 <br>ou<br>
 <code>java Serveur —help</code>
 
-<h3 Client</h3>
+<h3> Client</h3>
 
 Pour compiler: 
 <br>
@@ -38,7 +38,7 @@ Pour obtenir l’aide:
 
 <h2> Factorielle </h2>
 
-<h3 Serveur</h3>
+<h3> Serveur</h3>
 
 Pour compiler: 
 <br>
@@ -51,7 +51,7 @@ Pour obtenir l’aide:
 <br>ou<br>
 <code>java Serveur —help</code>
 
-<h3 Client</h3>
+<h3> Client</h3>
 
 Pour compiler: 
 <br>
